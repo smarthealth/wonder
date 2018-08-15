@@ -20,7 +20,7 @@ er.javamail.defaultEncoding = iso-8859-1
 
 # * Enables ERJavaMail to send all the mails to only one destination
 # This is useful when debugging
-er.javamail.centralize = true
+er.javamail.centralize = false
 
 # * Prints javamail debug infos
 # It is recommended to activate this switch when there are problems
